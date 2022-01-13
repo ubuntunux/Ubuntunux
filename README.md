@@ -1,4 +1,4 @@
-![Ubuntunux](https://github.com/ubuntunux/Ubuntunux/blob/main/Ubuntunux.png)
+![Ubuntunux](https://github.com/ubuntunux/Ubuntunux/blob/main/Ubuntunux512.png)
 
 <!--
 **ubuntunux/Ubuntunux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
