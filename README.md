@@ -1,4 +1,4 @@
-### Hi there 👋
+![Ubuntunux](https://github.com/ubuntunux/PyEngine3D/blob/master/images/pyengine3d_gpu_particle.png)
 
 <!--
 **ubuntunux/Ubuntunux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
