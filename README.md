@@ -1,16 +1,14 @@
 ![Ubuntunux](https://github.com/ubuntunux/Ubuntunux/blob/main/Ubuntunux.png)
 
-<!--
-**ubuntunux/Ubuntunux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indie Game Developer
 
-Here are some ideas to get you started:
+- Aero Master
+    - Blog: https://aeromasterdev.blogspot.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Battle Zone
+    - Blog: https://battlezone19.blogspot.com/
+    - PlayStore: https://play.google.com/store/apps/details?id=com.EnuriSoft.BattleRockScissorPaper
+
+- PyEngine3D
+    - Git: https://github.com/ubuntunux/PyEngine3D
+    - Blog: https://pyengine3d.blogspot.com/
