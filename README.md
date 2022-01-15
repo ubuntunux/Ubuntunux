@@ -1,4 +1,4 @@
-![Ubuntunux](https://github.com/ubuntunux/Ubuntunux/blob/main/Ubuntunux.png)
+![Ubuntunux](https://github.com/ubuntunux/Ubuntunux/blob/main/Ubuntunux128.png)
 
 Indie Game Developer
 
