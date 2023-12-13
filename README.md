@@ -18,4 +18,7 @@
     - https://github.com/ubuntunux/HulkanEngine3D
  
 - Books
-    - ![Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/images//book/PythonSnippets_1IAmCXR.jpg): Python Snippets - [파이썬 조각 코드 모음집](https://wikidocs.net/book/536)
+    - [Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/book/536)
+    - ![](https://wikidocs.net/images//book/PythonSnippets_1IAmCXR.jpg)
+    - - [Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/book/536)
+    - !(https://wikidocs.net/images//book/haskell_PDYFwpl.jpg)
