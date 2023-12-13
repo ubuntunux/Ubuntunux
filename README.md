@@ -17,6 +17,9 @@
     - Vulkan game engine written in haskell
     - https://github.com/ubuntunux/HulkanEngine3D
  
-- ![Books](https://wikidocs.net/profile/info/book/2414)
+- [Books](https://wikidocs.net/profile/info/book/2414)
     - [Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/book/536)
-    - ![Haskell Snippets - 하스켈 조각 코드 모음집](https://wikidocs.net/book/820)
+    - [Haskell Snippets - 하스켈 조각 코드 모음집](https://wikidocs.net/book/820)
+    - [Unreal Engine 5 Code Snippets - 언리얼 엔진 5 코드 모음집](https://wikidocs.net/book/9347)
+    - [Unreal Engine Material Cook Book ( 언리얼 머티리얼 쿡북 )](https://wikidocs.net/book/803)
+    - [Blender Books](https://wikidocs.net/book/7444)
