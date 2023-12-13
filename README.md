@@ -19,3 +19,4 @@
  
 - Books
     - ![Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/images//book/PythonSnippets_1IAmCXR.jpg)
+    - https://wikidocs.net/images//book/PythonSnippets_1IAmCXR.jpg
