@@ -20,5 +20,5 @@
 - Books
     - [Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/book/536)
     - ![](https://wikidocs.net/images//book/PythonSnippets_1IAmCXR.jpg)
-    - - [Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/book/536)
-    - !(https://wikidocs.net/images//book/haskell_PDYFwpl.jpg)
+    - ![Haskell Snippets - 하스켈 조각 코드 모음집](https://wikidocs.net/book/820)
+    - ![](https://wikidocs.net/images//book/haskell_PDYFwpl.jpg)
