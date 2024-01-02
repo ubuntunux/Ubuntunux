@@ -1,7 +1,7 @@
 ![Ubuntunux](https://github.com/ubuntunux/Ubuntunux/blob/main/Ubuntunux128.png)
 
-- Website
-    - https://sites.google.com/view/ubuntunux
+- Blog
+    - https://ubuntunuxdev.blogspot.com
 
 - RustEngine3D
     - Vulkan game engine written in rust
