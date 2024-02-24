@@ -2,7 +2,7 @@
 
 ## RustEngine3D
 - Vulkan game engine written in rust
-- Video: https://youtu.be/lAMA23NmRTI?list=PLRY8BDmW-ZEgIoF6Lm8xzbEMxf6FSb5GQ
+- Video: https://youtu.be/lAMA23NmRTI
 - Git: https://github.com/ubuntunux/rust_engine_3d_demo
 - Features
     - Blender Exporter
