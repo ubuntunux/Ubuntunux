@@ -7,13 +7,17 @@
     - Vulkan game engine written in rust
     - Video: https://youtu.be/lAMA23NmRTI?list=PLRY8BDmW-ZEgIoF6Lm8xzbEMxf6FSb5GQ
     - Git: https://github.com/ubuntunux/rust_engine_3d_demo
+    - Features
+        - Blender Exporter
+        - vulkan 1.3 raytracing
   
 - PyEngine3D
     - OpenGL game engine written in python
     - Video: https://www.youtube.com/watch?v=x9GVA7tCAdw
     - Git: https://github.com/ubuntunux/PyEngine3D
-    - Technical Detail
-        - shader 분석rㅣ
+    - Features
+        - glsl shader parser
+        - opengl 3.2
 
 - HulkanEngine3d
     - Vulkan game engine written in haskell
@@ -32,5 +36,3 @@
     - [Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/book/536)
     - [Haskell Snippets - 하스켈 조각 코드 모음집](https://wikidocs.net/book/820)
     - [Unreal Engine 5 Code Snippets - 언리얼 엔진 5 코드 모음집](https://wikidocs.net/book/9347)
-    - [Unreal Engine Material Cook Book ( 언리얼 머티리얼 쿡북 )](https://wikidocs.net/book/803)
-    - [Blender Books](https://wikidocs.net/book/7444)
