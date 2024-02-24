@@ -1,13 +1,5 @@
 # Projects
 
-## RustEngine3D
-- Vulkan game engine written in rust
-- Video: https://youtu.be/lAMA23NmRTI
-- Git: https://github.com/ubuntunux/rust_engine_3d_demo
-- Features
-    - Blender Exporter
-    - vulkan 1.3 raytracing
-
 ## PyEngine3D
 - OpenGL game engine written in python
 - Video: https://www.youtube.com/watch?v=x9GVA7tCAdw
@@ -15,6 +7,14 @@
 - Features
     - glsl shader parser
     - opengl 3.2
+ 
+## RustEngine3D
+- Vulkan game engine written in rust
+- Video: https://youtu.be/lAMA23NmRTI
+- Git: https://github.com/ubuntunux/rust_engine_3d_demo
+- Features
+    - Blender Exporter
+    - vulkan 1.3 raytracing
 
 ## HulkanEngine3d
 - Vulkan game engine written in haskell
