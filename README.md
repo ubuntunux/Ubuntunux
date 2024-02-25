@@ -25,7 +25,7 @@
 - Git: https://github.com/ubuntunux/AeroMaster
  
 ## KivyStartKit
-- This is a game project that I coded on my phone while commuting to work by bus.
+- 출퇴근 시간에 버스에서 핸드폰 코딩으로 진행한 Python 프로젝트
 - Git: https://github.com/ubuntunux/KivyStartKit
 
 
