@@ -21,7 +21,7 @@
 - Git: https://github.com/ubuntunux/HulkanEngine3D
  
 ## AeroMaster
-- 
+- Low poly stylized indie game
 - Git: https://github.com/ubuntunux/AeroMaster
 - Video: https://www.youtube.com/watch?v=4R8i8Bnx-nQ
  
