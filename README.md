@@ -27,7 +27,7 @@
 - Git: https://github.com/ubuntunux/AeroMaster
  
 ## KivyStartKit
-[<img src="https://github.com/ubuntunux/Ubuntunux/assets/16193695/4481aed9-a400-4026-82ba-f3c69f3ff567" width=30%>](https://github.com/ubuntunux/KivyStartKit)
+[<img src="https://github.com/ubuntunux/Ubuntunux/assets/16193695/4481aed9-a400-4026-82ba-f3c69f3ff567" width=15%>](https://github.com/ubuntunux/KivyStartKit)
 - 출퇴근 시간에 버스에서 핸드폰 코딩으로 진행한 Python 프로젝트
     - Kivy Framework을 사용하여 앱을 쉽게 만들 수 있는 멀티플랫폼 파이썬 어플리케이션
 - Git: https://github.com/ubuntunux/KivyStartKit
