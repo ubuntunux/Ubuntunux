@@ -10,17 +10,11 @@
 [![](https://img.youtube.com/vi/x9GVA7tCAdw/mqdefault.jpg)](https://www.youtube.com/watch?v=x9GVA7tCAdw)
 - OpenGL game engine written in python
 - Git: https://github.com/ubuntunux/PyEngine3D
-- Features
-    - glsl shader parser
-    - opengl 3.2
  
 ## RustEngine3D
 [![](https://img.youtube.com/vi/lAMA23NmRTI/mqdefault.jpg)](https://www.youtube.com/watch?v=lAMA23NmRTI)
 - Vulkan game engine written in rust
 - Git: https://github.com/ubuntunux/rust_engine_3d_demo
-- Features
-    - Blender Exporter
-    - vulkan 1.3 raytracing
  
 ## AeroMaster
 [![](https://img.youtube.com/vi/4R8i8Bnx-nQ/mqdefault.jpg)](https://www.youtube.com/watch?v=4R8i8Bnx-nQ)
