@@ -11,7 +11,7 @@
 - Hulkan is an open source haskell 3D engine using the vulkan api.
 - Git: https://github.com/ubuntunux/HulkanEngine3D
 
-![HulkanEngine3D](https://github.com/ubuntunux/HulkanEngine3D/blob/master/images/screenshot.png)
+[<img src="https://github.com/ubuntunux/HulkanEngine3D/blob/master/images/screenshot.png" width=15%>](https://github.com/ubuntunux/HulkanEngine3D)
 
 
 ## PyEngine3D
