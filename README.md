@@ -1,11 +1,4 @@
 # Projects
-
-## StoneAge
-- StoneAge is an indie game developed using RustEngine3D, my own game engine written in the Rust programming language.
-- Git: https://github.com/ubuntunux/StoneAge
-
-[<img src="https://github.com/ubuntunux/StoneAge/blob/main/doc/screenshot_00.png" width=40%>](https://www.youtube.com/watch?v=Y9fnRQfsp_A&list=PLRY8BDmW-ZEi6eAN_DSUAEHIR7f8mg_0E&index=1)
-
  
 ## RustEngine3D
 - Vulkan game engine written in rust
